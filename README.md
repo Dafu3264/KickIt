@@ -6,6 +6,8 @@
 ![Title Screen](docs/title_screen.png)
 <!-- 画像を用意した場合、docsフォルダなどに配置してリンクしてください -->
 
+[Kick It! ゲーム紹介動画を見る](https://youtu.be/ozA6huRFkmc)
+
 ---
 
 ## 🎮 ゲーム概要
